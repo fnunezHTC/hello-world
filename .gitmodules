@@ -1,0 +1,3 @@
+[submodule "mi_submodule"]
+	path = mi_submodule
+	url = https://github.com/fnunezHTC/mi_submodule
